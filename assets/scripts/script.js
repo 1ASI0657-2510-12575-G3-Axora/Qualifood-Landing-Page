@@ -8,7 +8,7 @@ function idioma() {
     if (currentPath.includes("index-en.html")) {
         location.href = "../../index.html";
     } else {
-        location.href = "/assets/en/index-en.html";
+        location.href = "assets/en/index-en.html";
     }
 }
 
